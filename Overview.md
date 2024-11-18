@@ -5,3 +5,7 @@
 - Measuring the code coverage
   
    __By the end of this learning__:  You'll be able to write unit tests for your JavaScript code using Jest.
+
+# More Testing
+# Less regression bugs
+# Better products
