@@ -10,7 +10,7 @@ Example :
 test('Returns sold out tagline when no ticket left', () => {
   const event = new Event(1, "Summer BBQ", 40, 100, 0);
   const tagline = getTagline(event, 10, true);
-  expect(tagline).toBe("Event Sold out!"); 
+  expect(tagline).toBe("Event Sold Out!"); 
 })
 ```
 - The argument  for the  'expect' function is the value that you want to validate
